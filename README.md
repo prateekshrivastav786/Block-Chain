@@ -15,3 +15,6 @@ customer without involving the middleman. In this process, sender's Bank, conver
 receiver's bank. It happens over the internet where both banks can bid the bank coins. These bank coin may seem like cryptocurrency 
 but it is completely bank regulated and closed to banks only. It's a new medium of trading between banks for transferring the money. 
 The receiver will get the same amount of money what been committed at the sender end without getting affected by the interbank coins deal.
+
+Also, please visit:
+https://medium.com/@prateekshrivastav786/block-chain-ba3d42a64115
